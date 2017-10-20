@@ -1,4 +1,4 @@
-package controller;
+package com.camel.example;
 
 import org.apache.camel.ProducerTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
